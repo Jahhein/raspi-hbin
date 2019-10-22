@@ -364,3 +364,10 @@ zsdoc/data
 !/tests/_output/.gitkeep
 
 # End of https://www.gitignore.io/api/zsh
+
+# Created by https://www.gitignore.io/api/bash
+# Edit at https://www.gitignore.io/?templates=bash
+
+#!! ERROR: bash is undefined. Use list command to see defined gitignore types !!#
+
+# End of https://www.gitignore.io/api/bash
