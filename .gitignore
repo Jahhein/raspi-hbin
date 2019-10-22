@@ -463,3 +463,4 @@ GitHub.sublime-settings
 .nfs*
 
 # End of https://www.gitignore.io/api/linux
+raspi-hbin.sublime-project
